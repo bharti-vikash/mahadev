@@ -49,7 +49,7 @@ I am submitting a project quotation request:
 *Notes / Details:* ${formData.projectNotes || 'Site inspection requested'}`;
 
     const encoded = encodeURIComponent(message);
-    const whatsappUrl = `https://wa.me/919725695099?text=${encoded}`;
+    const whatsappUrl = `https://wa.me/919451039323?text=${encoded}`;
 
     setToastMessage('Enquiry prepared successfully! Opening WhatsApp to send your specifications directly to Contractor Mahadev.');
 
@@ -293,9 +293,9 @@ I am submitting a project quotation request:
                       </span>
                       <a
                         className="font-title-md text-title-md text-on-surface hover:text-secondary font-bold transition-colors"
-                        href="tel:+919725695099"
+                        href="tel:+919451039323"
                       >
-                        +91 97256 95099
+                        +91 94510 39323
                       </a>
                       <span className="text-body-sm font-body-sm text-on-surface-variant">
                         Available 7 days a week for urgent consultations
@@ -344,7 +344,7 @@ I am submitting a project quotation request:
                 <div className="flex flex-col sm:flex-row gap-3 pt-2">
                   <a
                     className="flex-1 inline-flex items-center justify-center gap-2 py-3.5 px-4 rounded-lg bg-[#25D366] text-white hover:opacity-95 transition-opacity font-label-md text-label-md font-semibold uppercase tracking-wider shadow-sm"
-                    href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor%2C%20I%20have%20a%20project%20inquiry%20in%20Begowal%2FKapurthala."
+                    href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor%2C%20I%20have%20a%20project%20inquiry%20in%20Begowal%2FKapurthala."
                     rel="noopener noreferrer"
                     target="_blank"
                   >
@@ -353,7 +353,7 @@ I am submitting a project quotation request:
                   </a>
                   <a
                     className="flex-1 inline-flex items-center justify-center gap-2 py-3.5 px-4 rounded-lg bg-secondary text-on-secondary hover:bg-secondary/90 transition-colors font-label-md text-label-md font-semibold uppercase tracking-wider shadow-sm"
-                    href="tel:+919725695099"
+                    href="tel:+919451039323"
                   >
                     <span className="material-symbols-outlined text-[20px]">call</span>
                     <span>Call Now</span>

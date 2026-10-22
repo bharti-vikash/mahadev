@@ -111,8 +111,8 @@ export default function Footer({ setActivePage, onOpenTerms }) {
             <ul className="space-y-3 font-body-sm text-body-sm text-surface-dim">
               <li className="flex items-start gap-2.5">
                 <span className="material-symbols-outlined text-secondary text-lg shrink-0 mt-0.5">call</span>
-                <a className="hover:text-surface-bright transition-colors font-medium" href="tel:+919725695099">
-                  +91 97256 95099
+                <a className="hover:text-surface-bright transition-colors font-medium" href="tel:+919451039323">
+                  +91 94510 39323
                 </a>
               </li>
               <li className="flex items-start gap-2.5">
@@ -123,7 +123,7 @@ export default function Footer({ setActivePage, onOpenTerms }) {
                 <span className="material-symbols-outlined text-[#25D366] text-lg shrink-0 mt-0.5">chat</span>
                 <a
                   className="hover:text-surface-bright transition-colors text-[#25D366]"
-                  href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20discuss%20my%20site%20construction%20and%20tile%20fitting."
+                  href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20discuss%20my%20site%20construction%20and%20tile%20fitting."
                   rel="noopener noreferrer"
                   target="_blank"
                 >

@@ -135,7 +135,7 @@ export default function ProjectModal({ project, onClose, onSelectForQuote }) {
             </div>
             <div className="flex flex-wrap items-center gap-3 w-full sm:w-auto">
               <a
-                href={`https://wa.me/919725695099?text=${whatsappMessage}`}
+                href={`https://wa.me/919451039323?text=${whatsappMessage}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-2 px-5 py-3 rounded-lg bg-[#25D366] text-white hover:bg-[#20ba59] font-label-md text-label-md uppercase tracking-wider transition-all shadow"

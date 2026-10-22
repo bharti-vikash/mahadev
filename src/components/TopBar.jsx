@@ -18,10 +18,10 @@ export default function TopBar() {
           <span className="text-outline-variant">|</span>
           <a
             className="text-surface-bright hover:text-secondary-fixed transition-colors font-medium flex items-center gap-1"
-            href="tel:+919725695099"
+            href="tel:+919451039323"
           >
             <span className="material-symbols-outlined text-sm text-secondary">call</span>
-            <span>+91 97256 95099</span>
+            <span>+91 94510 39323</span>
           </a>
         </div>
       </div>

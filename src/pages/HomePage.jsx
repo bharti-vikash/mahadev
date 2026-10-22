@@ -62,15 +62,15 @@ export default function HomePage({ setActivePage, onSelectProject }) {
 
               <a
                 className="inline-flex items-center gap-2 px-6 py-3.5 rounded-lg bg-surface-bright/15 hover:bg-surface-bright/25 text-surface-bright backdrop-blur-md font-label-md text-label-md transition-all shadow-sm font-semibold uppercase tracking-wider"
-                href="tel:+919725695099"
+                href="tel:+919451039323"
               >
                 <span className="material-symbols-outlined text-lg text-secondary-fixed">call</span>
-                <span>Call: +91 97256 95099</span>
+                <span>Call: +91 94510 39323</span>
               </a>
 
               <a
                 className="inline-flex items-center gap-2 px-5 py-3.5 rounded-lg bg-[#25D366] hover:bg-[#20ba5a] text-surface-bright font-label-md text-label-md transition-all shadow-sm font-semibold uppercase tracking-wider"
-                href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20request%20a%20quotation%20for%20my%20project."
+                href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20request%20a%20quotation%20for%20my%20project."
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -319,10 +319,10 @@ export default function HomePage({ setActivePage, onSelectProject }) {
               </button>
               <a
                 className="inline-flex items-center gap-2 font-label-md text-label-md text-on-surface hover:text-secondary transition-colors"
-                href="tel:+919725695099"
+                href="tel:+919451039323"
               >
                 <span className="material-symbols-outlined text-secondary text-lg">call</span>
-                <span className="font-bold">+91 97256 95099</span>
+                <span className="font-bold">+91 94510 39323</span>
               </a>
             </div>
           </div>
@@ -408,7 +408,7 @@ export default function HomePage({ setActivePage, onSelectProject }) {
             </div>
             <a
               className="inline-flex items-center gap-1.5 px-4 py-2.5 rounded-lg bg-primary hover:bg-secondary text-on-primary font-label-md text-label-md shrink-0 transition-colors uppercase tracking-wider font-semibold"
-              href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor,%20please%20share%20your%20recent%20work%20photos%20and%20videos."
+              href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor,%20please%20share%20your%20recent%20work%20photos%20and%20videos."
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -506,14 +506,14 @@ export default function HomePage({ setActivePage, onSelectProject }) {
           <div className="relative z-10 flex flex-wrap items-center justify-center gap-4 pt-2">
             <a
               className="inline-flex items-center gap-2.5 px-7 py-3.5 rounded-lg bg-secondary-fixed-dim hover:bg-secondary-fixed text-on-secondary-fixed font-label-md text-label-md uppercase tracking-wider font-semibold transition-all shadow-md"
-              href="tel:+919725695099"
+              href="tel:+919451039323"
             >
               <span className="material-symbols-outlined text-lg">call</span>
-              <span>Call: +91 97256 95099</span>
+              <span>Call: +91 94510 39323</span>
             </a>
             <a
               className="inline-flex items-center gap-2.5 px-7 py-3.5 rounded-lg bg-[#25D366] hover:bg-[#20ba5a] text-surface-bright font-label-md text-label-md uppercase tracking-wider font-semibold transition-all shadow-md"
-              href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20request%20a%20quotation%20for%20my%20project."
+              href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20request%20a%20quotation%20for%20my%20project."
               rel="noopener noreferrer"
               target="_blank"
             >

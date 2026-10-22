@@ -155,7 +155,7 @@ export default function ServicesPage({ setActivePage, onSelectProject }) {
                     <div className="pt-4 border-t border-surface-container-high flex items-center justify-between">
                       <a
                         className="inline-flex items-center gap-2 px-4 py-2 rounded bg-primary text-on-primary font-label-md text-label-md uppercase tracking-wider hover:bg-secondary transition-colors font-semibold"
-                        href={`https://wa.me/919725695099?text=${encodeURIComponent(
+                        href={`https://wa.me/919451039323?text=${encodeURIComponent(
                           `Hello Mahadev Construction, I am enquiring about ${srv.title}.`
                         )}`}
                         target="_blank"
@@ -166,7 +166,7 @@ export default function ServicesPage({ setActivePage, onSelectProject }) {
                       </a>
                       <a
                         className="text-on-surface hover:text-secondary p-2 transition-colors"
-                        href="tel:+919725695099"
+                        href="tel:+919451039323"
                         title="Direct Call"
                       >
                         <span className="material-symbols-outlined">call</span>
@@ -373,14 +373,14 @@ export default function ServicesPage({ setActivePage, onSelectProject }) {
               <div className="lg:col-span-4 flex flex-col gap-3 justify-center">
                 <a
                   className="w-full inline-flex items-center justify-center gap-3 px-6 py-4 rounded bg-secondary text-on-secondary hover:bg-secondary-fixed-dim hover:text-on-secondary-fixed font-label-md text-label-md uppercase tracking-wider transition-all shadow-md font-semibold"
-                  href="tel:+919725695099"
+                  href="tel:+919451039323"
                 >
                   <span className="material-symbols-outlined text-xl">call</span>
-                  <span>Call +91 97256 95099</span>
+                  <span>Call +91 94510 39323</span>
                 </a>
                 <a
                   className="w-full inline-flex items-center justify-center gap-3 px-6 py-4 rounded bg-[#25D366] text-white hover:bg-[#20ba59] font-label-md text-label-md uppercase tracking-wider transition-all shadow-md font-semibold"
-                  href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20discuss%20my%20site%20construction%20and%20tile%20fitting%20project."
+                  href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20discuss%20my%20site%20construction%20and%20tile%20fitting%20project."
                   rel="noopener noreferrer"
                   target="_blank"
                 >

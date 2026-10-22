@@ -73,16 +73,16 @@ export default function Navbar({ activePage, setActivePage }) {
         <div className="flex items-center gap-2 sm:gap-3 shrink-0">
           <a
             className="hidden sm:inline-flex items-center gap-2 px-3 py-2 text-on-surface hover:text-secondary font-label-md text-label-md transition-colors"
-            href="tel:+919725695099"
+            href="tel:+919451039323"
           >
             <span className="material-symbols-outlined text-[20px] text-secondary">call</span>
-            <span className="tracking-tight font-medium">+91 97256 95099</span>
+            <span className="tracking-tight font-medium">+91 94510 39323</span>
           </a>
 
           <a
             aria-label="WhatsApp Instant Chat"
             className="inline-flex items-center justify-center w-9 h-9 rounded-lg bg-surface-container hover:bg-surface-container-high text-[#25D366] transition-colors"
-            href="https://wa.me/919725695099?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20enquire%20about%20construction%20and%20tile%20fitting."
+            href="https://wa.me/919451039323?text=Hello%20Mahadev%20Contractor,%20I%20would%20like%20to%20enquire%20about%20construction%20and%20tile%20fitting."
             rel="noopener noreferrer"
             target="_blank"
             title="Chat on WhatsApp"
@@ -149,11 +149,11 @@ export default function Navbar({ activePage, setActivePage }) {
 
             <div className="pt-3 border-t border-surface-container-high flex flex-col gap-2">
               <a
-                href="tel:+919725695099"
+                href="tel:+919451039323"
                 className="inline-flex items-center justify-center gap-2 py-3 px-4 rounded-lg bg-surface-container hover:bg-surface-container-high text-on-surface font-label-md text-label-md"
               >
                 <span className="material-symbols-outlined text-[18px] text-secondary">call</span>
-                <span>Call +91 97256 95099</span>
+                <span>Call +91 94510 39323</span>
               </a>
               <button
                 onClick={() => handleNavClick('about-contact')}
